@@ -1,6 +1,6 @@
 # Curtin Resources for the Modules
 
-## Hello! :) , you might be wondering what this repository is about, but this is a compilation of all external resources that helped me get through some modules, ideally for the ease of the next batches that are taking the Bachelor of Computing (Software Engineering) through SLIT International. - _Sahas_
+## Hello! :) , you might be wondering what this repository is about, but this is a compilation of all external resources that helped me get through some modules, ideally for the ease of the next batches that are taking the Bachelor of Computing (Software Engineering) through SLIIT International. - _Kontreebeyutars_
 
 <br>
 
