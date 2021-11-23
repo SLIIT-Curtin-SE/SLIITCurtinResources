@@ -4,7 +4,7 @@
 
 <br>
 
-Can be structured into a few parts;
+Lots of varying Assignments, Tasks etc that test a variety of skills (focused around language), these skills can be structured into a few parts;
 
 * Writing skill - Something that will take quite some time to get used to, but additional plugins for Microsoft Word (or its own standalone website) [Grammarly](https://www.grammarly.com/) helps in identifying word repitions, clarity issues, and prevents you from violating some rules in English that unfortunately local school syllabi has not done much in helping. 
 
