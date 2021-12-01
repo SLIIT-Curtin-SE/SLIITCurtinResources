@@ -13,7 +13,7 @@
 * [Fundamental Concepts of Data Security](Y1S1/Fundamental%20Concepts%20of%20Data%20Security) 
 * [Integrating Indigenous Science and STEM](Y1S1/Integrating%20Indigenous%20Science%20and%20STEM)
 * [Introduction to Software Engineering](Y1S1/Introduction%20to%20Software%20Engineering)
-* Programming Design and Implementation
+* [Programming Design and Implementation](Y1S1/Programming%20Design%20and%20Implementation)
 
 #### Year 1, Semester 2
 

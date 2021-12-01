@@ -16,7 +16,7 @@
 
 <br>
 
-### Somewhere down the line of the module you have to realize that a majority of the notes are based out of the Lecture Notes inside the Slides. You can access these by going over to the BlackBoard of Fundamental Concepts of Data Security -> Unit Materials -> Lecture Slides and **download** the slides (opening using browser will not show the Lecture Notes) and open using a software such as Microsoft PowerPoint to which you will see something similar to this image attached below. 
+### Somewhere down the line of the module you have to realize that a majority of the notes are based out of the Lecture Notes inside the Slides. You can access these by going over to the BlackBoard of Fundamental Concepts of Data Security -> Unit Materials -> Lecture Slides and **download** the slides (opening using browser will not show the Lecture Notes) and open using a software such as Microsoft PowerPoint to which you will see something similar to this image attached below.
 
 <br>
 
